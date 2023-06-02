@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(101, 36, 129);
+}
+
+div {
+  color: #fcfcfc;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding-top: 40vh;
+}
+div input {
+  color: #616161;
+  text-align: center;
+  font-size: 8vh;
+  height: 10vh;
+  width: 40vw;
+}
+div #submit {
+  color: #616161;
+  font-size: 8vh;
+}/*# sourceMappingURL=style.css.map */

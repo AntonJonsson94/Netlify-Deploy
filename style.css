@@ -2,23 +2,17 @@ body {
   display: flex;
   justify-content: center;
   background-color: rgb(101, 36, 129);
-}
-
-div {
-  color: #fcfcfc;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
   padding-top: 40vh;
 }
-div input {
+
+input {
   color: #616161;
   text-align: center;
-  font-size: 8vh;
-  height: 10vh;
-  width: 40vw;
+  font-size: 2vh;
+  height: 5vh;
 }
-div #submit {
+
+.submit {
   color: #616161;
-  font-size: 8vh;
+  height: 5vh;
 }/*# sourceMappingURL=style.css.map */
